@@ -1,6 +1,7 @@
 RARITONE BACKEND SYSTEM
 
 Summer Internship 2026
+whole project Link : https://github.com/Nandini-Bhimineni/Raritone-Project-Backend
 
 A scalable and modular backend system developed for the Raritone virtual fashion platform using Node.js, Express.js, MongoDB, and Cloudinary.
 
